@@ -1,0 +1,19 @@
+{
+    "apps": [
+      {
+        "name": "notepad",
+        "command": "notepad.exe",
+        "aliases": ["editor", "note"]
+      },
+      {
+        "name": "calculator",
+        "command": "calc.exe",
+        "aliases": ["calc"]
+      },
+      {
+        "name": "chrome",
+        "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "aliases": ["browser", "google chrome"]
+      }
+    ]
+  }  
