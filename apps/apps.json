@@ -14,6 +14,18 @@
         "name": "chrome",
         "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
         "aliases": ["browser", "google chrome"]
+      },
+      {
+        "name": "YouTube",
+        "aliases": ["yt", "youtube app", "youtube"],
+        "command": "start chrome https://www.youtube.com",
+        "processes": ["chrome.exe"]
+      },
+      {
+        "name": "VS Code",
+        "aliases": ["code", "visual studio code"],
+        "command": "code",
+        "processes": ["Code.exe"]
       }
     ]
   }  

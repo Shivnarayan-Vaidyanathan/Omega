@@ -2,7 +2,7 @@ import os
 from recorder import Recorder
 from player import play_session
 
-SESSIONS_DIR = os.path.join(os.path.dirname(__file__), "..", "sessions")
+SESSIONS_DIR = os.path.join(os.path.dirname(__file__), "..", "RPA/sessions")
 os.makedirs(SESSIONS_DIR, exist_ok=True)
 
 if __name__ == "__main__":

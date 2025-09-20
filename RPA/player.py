@@ -1,11 +1,7 @@
 import json
 import time
 import pyautogui
-from input_blocker import InputBlocker
-
-# Disable failsafe (⚠️ careful)
-pyautogui.FAILSAFE = False
-
+from .input_blocker import InputBlocker
 
 def play_session(file_path, llm_instructions=None):
     """
@@ -55,7 +51,7 @@ def play_session(file_path, llm_instructions=None):
             if pressed:
                 last_clicks[button] = (x, y)
             else:
-                if button in last_clicks:
+                if button in last_clicks:  # only click if matched with press
                     px, py = last_clicks.pop(button)
                     pyautogui.click(px, py, button=button)
                     time.sleep(0.1)
@@ -65,24 +61,33 @@ def play_session(file_path, llm_instructions=None):
             pyautogui.scroll(details["dy"], x=details["x"], y=details["y"])
             time.sleep(0.05)
 
-        # === Keyboard Input ===
-        elif etype == "keyboard_input":
+        # === Keyboard Input (press + release) ===
+        elif etype == "key_press":
             key = details["key"]
-
             if len(key) == 1:  # normal characters
-                pyautogui.typewrite(key)
-            else:  # special keys
+                pyautogui.keyDown(key)
+            else:  # special keys like ctrl, enter, etc.
                 special_key = key.replace("Key.", "")
                 try:
-                    pyautogui.press(special_key)
+                    pyautogui.keyDown(special_key)
                 except Exception:
                     print(f"⚠️ Unsupported key: {key}")
-            time.sleep(0.05)
+
+        elif etype == "key_release":
+            key = details["key"]
+            if len(key) == 1:
+                pyautogui.keyUp(key)
+            else:
+                special_key = key.replace("Key.", "")
+                try:
+                    pyautogui.keyUp(special_key)
+                except Exception:
+                    print(f"⚠️ Unsupported key: {key}")
 
         # === Future: LLM Action ===
         elif etype == "llm_action":
             print(f"🤖 LLM action: {details['command']}")
-            # Placeholder for AI integration
+            # Hook for AI integration
 
     blocker.stop_blocking()
     print("✅ Session finished.")

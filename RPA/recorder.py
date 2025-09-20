@@ -4,9 +4,8 @@ import os
 from pynput import mouse, keyboard
 from datetime import datetime
 
-SESSIONS_DIR = os.path.join(os.path.dirname(__file__), "..", "sessions")
+SESSIONS_DIR = os.path.join(os.path.dirname(__file__), "sessions")
 os.makedirs(SESSIONS_DIR, exist_ok=True)
-
 
 class Recorder:
     def __init__(self):
@@ -25,6 +24,7 @@ class Recorder:
         self.start_time = time.time()
         print("🎥 Recording started... Press ESC to stop.")
 
+        # --- Mouse ---
         def on_click(x, y, button, pressed):
             self._record_event(
                 "mouse_click",
@@ -37,17 +37,25 @@ class Recorder:
                 {"x": x, "y": y, "dx": dx, "dy": dy}
             )
 
+        # --- Keyboard ---
         def on_press(key):
             try:
                 k = key.char
             except AttributeError:
                 k = str(key)
-            self._record_event("keyboard_input", {"key": k})
+            self._record_event("key_press", {"key": k})
             if key == keyboard.Key.esc:  # stop recording
                 return False
 
+        def on_release(key):
+            try:
+                k = key.char
+            except AttributeError:
+                k = str(key)
+            self._record_event("key_release", {"key": k})
+
         mouse_listener = mouse.Listener(on_click=on_click, on_scroll=on_scroll)
-        keyboard_listener = keyboard.Listener(on_press=on_press)
+        keyboard_listener = keyboard.Listener(on_press=on_press, on_release=on_release)
 
         mouse_listener.start()
         keyboard_listener.start()
@@ -63,7 +71,6 @@ class Recorder:
 
         print(f"✅ Session saved: {filepath}")
         return filepath
-
 
 if __name__ == "__main__":
     Recorder().record()

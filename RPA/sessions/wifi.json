@@ -1,0 +1,89 @@
+[
+  {
+    "time": 1.85,
+    "action": "mouse_click",
+    "details": {
+      "x": 1767,
+      "y": 1195,
+      "button": "Button.left",
+      "pressed": true
+    }
+  },
+  {
+    "time": 1.943,
+    "action": "mouse_click",
+    "details": {
+      "x": 1767,
+      "y": 1195,
+      "button": "Button.left",
+      "pressed": false
+    }
+  },
+  {
+    "time": 3.795,
+    "action": "mouse_click",
+    "details": {
+      "x": 1517,
+      "y": 706,
+      "button": "Button.left",
+      "pressed": true
+    }
+  },
+  {
+    "time": 3.869,
+    "action": "mouse_click",
+    "details": {
+      "x": 1517,
+      "y": 706,
+      "button": "Button.left",
+      "pressed": false
+    }
+  },
+  {
+    "time": 5.503,
+    "action": "mouse_click",
+    "details": {
+      "x": 1586,
+      "y": 710,
+      "button": "Button.left",
+      "pressed": true
+    }
+  },
+  {
+    "time": 5.591,
+    "action": "mouse_click",
+    "details": {
+      "x": 1586,
+      "y": 710,
+      "button": "Button.left",
+      "pressed": false
+    }
+  },
+  {
+    "time": 10.79,
+    "action": "mouse_click",
+    "details": {
+      "x": 1500,
+      "y": 1179,
+      "button": "Button.left",
+      "pressed": true
+    }
+  },
+  {
+    "time": 10.845,
+    "action": "mouse_click",
+    "details": {
+      "x": 1500,
+      "y": 1179,
+      "button": "Button.left",
+      "pressed": false
+    }
+  },
+  {
+    "time": 11.991,
+    "action": "key_press",
+    "details": {
+      "key": "Key.esc"
+    }
+  }
+]
