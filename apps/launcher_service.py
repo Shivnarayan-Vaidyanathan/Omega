@@ -1,10 +1,15 @@
 import json
 import os
 import subprocess
-import signal
-import psutil   # new dependency to manage processes
+import psutil  # dependency to manage processes
+from pathlib import Path
 
 APPS_FILE = os.path.join(os.path.dirname(__file__), "apps.json")
+
+# ✅ Synonyms for user-friendly commands
+LAUNCH_KEYWORDS = ["open", "launch", "start", "run"]
+CLOSE_KEYWORDS = ["close", "quit"]
+
 
 def load_apps():
     """Load apps from apps.json"""
@@ -13,6 +18,7 @@ def load_apps():
     with open(APPS_FILE, "r") as f:
         data = json.load(f)
         return data.get("apps", [])
+
 
 def launch_app(app_name):
     """Launch app by name or alias"""
@@ -30,23 +36,45 @@ def launch_app(app_name):
     print(f"❌ App '{app_name}' not found in registry.")
     return False
 
+
 def close_app(app_name):
-    """Close app by name or alias using process name from apps.json"""
+    """Close app by name or alias using process names or command basename"""
     apps = load_apps()
     app_name_lower = app_name.lower()
 
     for app in apps:
         if app_name_lower == app["name"].lower() or app_name_lower in [a.lower() for a in app.get("aliases", [])]:
+
+            # ✅ Special handling for Calculator (UWP app)
+            if app_name_lower in ["calculator", "calc"]:
+                try:
+                    print(f"🛑 Closing Calculator via taskkill...")
+                    ret_code = os.system("taskkill /IM Calculator.exe /F >nul 2>&1")
+                    if ret_code == 0:
+                        print(f"✅ Calculator closed successfully.")
+                        return True
+                    else:
+                        print(f"⚠️ Calculator was not running.")
+                        return False
+                except Exception as e:
+                    print(f"⚠️ Failed to close Calculator: {e}")
+                    return False
+
+            # Use "processes" field if exists, else fallback to basename of command
             process_names = app.get("processes", [])
             if not process_names:
-                print(f"⚠️ No process names defined for {app['name']} in apps.json")
-                return False
+                cmd_path = app.get("command", "")
+                if cmd_path:
+                    process_names = [Path(cmd_path).name]  # e.g., notepad.exe
+                else:
+                    print(f"⚠️ No process names or command defined for {app['name']}")
+                    return False
 
             closed = False
             for proc in psutil.process_iter(["pid", "name"]):
                 try:
                     if proc.info["name"] and proc.info["name"].lower() in [p.lower() for p in process_names]:
-                        print(f"❌ Closing {proc.info['name']} (PID: {proc.info['pid']})...")
+                        print(f"🛑 Closing {proc.info['name']} (PID: {proc.info['pid']})...")
                         proc.terminate()
                         closed = True
                 except (psutil.NoSuchProcess, psutil.AccessDenied):
@@ -62,15 +90,24 @@ def close_app(app_name):
     print(f"❌ App '{app_name}' not found in registry.")
     return False
 
-# For testing
+
+# ✅ Simple CLI test harness
 if __name__ == "__main__":
     while True:
-        action = input("Enter 'open <app>' or 'close <app>' (or 'exit'): ").strip().lower()
+        action = input("Enter command (open/close/exit): ").strip().lower()
         if action in ["exit", "quit"]:
             break
-        if action.startswith("open "):
-            launch_app(action.replace("open ", "", 1))
-        elif action.startswith("close "):
-            close_app(action.replace("close ", "", 1))
+
+        parts = action.split(maxsplit=1)
+        if len(parts) < 2:
+            print("⚠️ Please enter in format: <command> <app>")
+            continue
+
+        cmd, app = parts[0], parts[1]
+
+        if cmd in LAUNCH_KEYWORDS:
+            launch_app(app)
+        elif cmd in CLOSE_KEYWORDS:
+            close_app(app)
         else:
-            print("⚠️ Unknown command. Use 'open <app>' or 'close <app>'")
+            print("⚠️ Unknown command. Try 'open <app>' or 'close <app>'")

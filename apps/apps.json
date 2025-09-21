@@ -1,31 +1,40 @@
 {
-    "apps": [
-      {
-        "name": "notepad",
-        "command": "notepad.exe",
-        "aliases": ["editor", "note"]
-      },
-      {
-        "name": "calculator",
-        "command": "calc.exe",
-        "aliases": ["calc"]
-      },
-      {
-        "name": "chrome",
-        "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-        "aliases": ["browser", "google chrome"]
-      },
-      {
-        "name": "YouTube",
-        "aliases": ["yt", "youtube app", "youtube"],
-        "command": "start chrome https://www.youtube.com",
-        "processes": ["chrome.exe"]
-      },
-      {
-        "name": "VS Code",
-        "aliases": ["code", "visual studio code"],
-        "command": "code",
-        "processes": ["Code.exe"]
-      }
-    ]
-  }  
+  "apps": [
+    {
+      "name": "notepad",
+      "command": "notepad.exe",
+      "aliases": ["editor", "note"],
+      "processes": ["notepad.exe"]
+    },
+    {
+      "name": "calculator",
+      "command": "calc.exe",
+      "aliases": ["calc", "calculator"],
+      "processes": ["calc.exe"]
+    },
+    {
+      "name": "chrome",
+      "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "aliases": ["browser", "google chrome"],
+      "processes": ["chrome.exe"]
+    },
+    {
+      "name": "YouTube",
+      "command": "start chrome https://www.youtube.com",
+      "aliases": ["yt", "youtube app", "youtube"],
+      "processes": ["chrome.exe"]
+    },
+    {
+      "name": "VS Code",
+      "command": "code",
+      "aliases": ["code", "visual studio code"],
+      "processes": ["Code.exe"]
+    },
+    {
+      "name": "wifi",
+      "command": "wifi",
+      "aliases": ["wifi", "internet"],
+      "processes": ["wifi.exe"]
+    }
+  ]
+}
