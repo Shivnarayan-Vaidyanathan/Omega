@@ -3,6 +3,7 @@ import os
 import subprocess
 import psutil  # dependency to manage processes
 from pathlib import Path
+import pygetwindow as gw  # ✅ For window-level closing
 
 APPS_FILE = os.path.join(os.path.dirname(__file__), "apps.json")
 
@@ -38,12 +39,27 @@ def launch_app(app_name):
 
 
 def close_app(app_name):
-    """Close app by name or alias using process names or command basename"""
+    """Close app by name or alias using process names or window title (for web apps)"""
     apps = load_apps()
     app_name_lower = app_name.lower()
 
     for app in apps:
         if app_name_lower == app["name"].lower() or app_name_lower in [a.lower() for a in app.get("aliases", [])]:
+
+            # --- Special handling for browser-based apps ---
+            if app.get("is_web_app", False):
+                try:
+                    windows = gw.getWindowsWithTitle(app_name)
+                    if not windows:
+                        print(f"⚠️ No window found with title containing '{app_name}'")
+                        return False
+                    for win in windows:
+                        print(f"🛑 Closing window: {win.title}")
+                        win.close()
+                    return True
+                except Exception as e:
+                    print(f"⚠️ Failed to close window '{app_name}': {e}")
+                    return False
 
             # ✅ Special handling for Calculator (UWP app)
             if app_name_lower in ["calculator", "calc"]:

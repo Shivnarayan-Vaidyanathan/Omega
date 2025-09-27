@@ -4,37 +4,43 @@
       "name": "notepad",
       "command": "notepad.exe",
       "aliases": ["editor", "note"],
-      "processes": ["notepad.exe"]
+      "processes": ["notepad.exe"],
+      "is_web_app": false
     },
     {
       "name": "calculator",
       "command": "calc.exe",
       "aliases": ["calc", "calculator"],
-      "processes": ["calc.exe"]
+      "processes": ["calc.exe"],
+      "is_web_app": false
     },
     {
       "name": "chrome",
       "command": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
       "aliases": ["browser", "google chrome"],
-      "processes": ["chrome.exe"]
+      "processes": ["chrome.exe"],
+      "is_web_app": false
     },
     {
       "name": "YouTube",
       "command": "start chrome https://www.youtube.com",
       "aliases": ["yt", "youtube app", "youtube"],
-      "processes": ["chrome.exe"]
+      "processes": ["chrome.exe"],
+      "is_web_app": true
     },
     {
       "name": "VS Code",
       "command": "code",
       "aliases": ["code", "visual studio code"],
-      "processes": ["Code.exe"]
+      "processes": ["Code.exe"],
+      "is_web_app": false
     },
     {
       "name": "wifi",
       "command": "wifi",
       "aliases": ["wifi", "internet"],
-      "processes": ["wifi.exe"]
+      "processes": ["wifi.exe"],
+      "is_web_app": false
     }
   ]
 }

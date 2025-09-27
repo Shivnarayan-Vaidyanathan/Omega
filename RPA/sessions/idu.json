@@ -1,831 +1,1153 @@
 [
   {
-    "time": 2.086,
+    "time": 2.286,
     "action": "mouse_click",
     "details": {
-      "x": 494,
-      "y": 1166,
+      "x": 485,
+      "y": 1162,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAADSklEQVR4nNWYPYsUQRCG3+6Z2fXcj7vghIW7QFC4izQw8B+YmPoDxEBMjEQEEUwNTDS9xMTIWLjI32B4IIj4hSCintzuuXtdJd090ztfa7vM4PVVMPT09G4/U/VWde2K0WiE8EwiSJMI0uLt7W2EZ2JzcxPhmUSQJhGkSQRpce2slLLX6yXGEAhWkiSrq6vK2Gw2CwJLCNHr9abTKTPj+Cwu3Xe7XaUUQpN8FEVCCISGJaU83vAFXSAkgjSJIE0iSJM4QYfPIjt79drWjVtxvw+AGMyY/twnRcxggEjPEGPy8f3rBzfP3Xscr63bZfaqB2aNW6x+/fj+4uns89tGWBfuP0QS2Q2k2awzHKYbZ0z60WANwOmti8mZDTKPUohsTf52iOjbk9uNsKCrWoGg5AY3qd1J8DIRASuD6j7LYbHdZjFQurGtxzL2MumVK8OmWMQgLPBQcQxAHR2JCpMjs2NFUAf7TbEUgUUNRwmODRZkModYwMQMcaoNb3EWypK8UiBzq0wQ1WyGCpP7oItjC97inD5q/eQm9eK462XidrRFRW1V/JSXPE1/Cx9TO9oiAok6oGJ6WslzslKtEfkPWr6WMpEXOmmenjYTDyfoe5ja0RaZAlFiqtYLK3nR7XmZ9GRdJi53VCtl3s9c9cBc07F9lHEAOBofeJn0o3Eb2mLhP3mU1RaXmWrrVm2LXv5rZDCoOaH+v8VLrR5dvyv7awXJ5/oZ++raQ1/eHe7uDO48q9beatri01788lEjrP7lK9H6xjztuaiwrBaID3vY3YnOX2IRKTItkC53gDmX7Onk1qMzjJtnouA6JjfpNjN+Upl78jIvvIP5whYkL6iOqQhnS5FSzNLDpL+wBSw2WI6p4qS0UJlSRLqX9jC14y0uMVVUlT4ypYiUDubfmYggqTmWkGUlVZi0op23pIfJgDfHijpphTQHXy2T6yC8fmpP8lHH0nAWR64w6YGJCykm6WFy7UYzLNLlJ8/kktEx2eIp9WLyMql2gsj1TKVownkr8jAtOhOX6yC4Oygw1ZVW7TabicRepvQ3WUMsNRkXmCqldd5zAtQdeJl0ECf7TbHGr56npavC5NoYF5R/YWJG8vXNiWls5HED1NsfoNvwMPZZkDYAAAAASUVORK5CYII="
+    },
+    "window": "recorder.py - Omega - Visual Studio Code",
+    "description": "Mouse Button.left down at (485,1162)"
   },
   {
-    "time": 2.313,
+    "time": 2.296,
     "action": "mouse_click",
     "details": {
-      "x": 494,
-      "y": 1166,
+      "x": 485,
+      "y": 1162,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "",
+    "description": "Mouse Button.left up at (485,1162)"
   },
   {
-    "time": 5.581,
+    "time": 4.531,
     "action": "mouse_click",
     "details": {
-      "x": 1207,
-      "y": 591,
+      "x": 1202,
+      "y": 584,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABF0lEQVR4nO2XMarEIBBA3bCNEAgpY51r5AqeJHdIbxlSWHkID2FnlzLNb2xEQrCwXfi/WdjdYvLzvxbzqmEGhofiMN76viclUdc1IaQiRVKRIqlIkVSkSO7XtmuahnNOKU0paa2P4yjitDjnjLG2bRljnPPTfS7WopS+jTNrpZTexpm1tNbOuX3fnXNa69N9bjjlAaAWBNSCgFoQUAsCakFArf9fmsdx/LSJbNu2LEserWEYPpW6rjuhdc0lrut6ovTnWlLKGONrPsYopcym5b1XSr3mlVLe+5wv0RhjrX3OWGuNMfkHhBAihPAThxCEEKXMrWmavr6Z5/k3ffDnAwG1IKAWBNSCgFoQUAsCakFALQioRQA8AMtaWvsP9SwKAAAAAElFTkSuQmCC"
+    },
+    "window": "Search",
+    "description": "Mouse Button.left down at (1202,584)"
   },
   {
-    "time": 5.806,
+    "time": 4.57,
     "action": "mouse_click",
     "details": {
-      "x": 1207,
-      "y": 591,
+      "x": 1202,
+      "y": 584,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "Start",
+    "description": "Mouse Button.left up at (1202,584)"
   },
   {
-    "time": 7.497,
+    "time": 5.958,
     "action": "mouse_click",
     "details": {
-      "x": 1099,
-      "y": 645,
+      "x": 1139,
+      "y": 632,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAExklEQVR4nM1YTYgcRRT+3uuenp4d3bgxIfGQHCJe4sX1YPDiWT15z0E8BnKQRT2p4DmIiGD8QxOQFUEUvAQEUchFRBREiBCTGDBgXOIyWbOzM91dL7yq7prunhkTt0foj6bnTVNV76v3Xr16VbS6uor2gdFKMFoJRivBaCUYrQSjlWC0EoxWgtFKMFoJRivBaCUYrQSjlWC0EiEB0qA/ld4QAZE0GzCnJQCLBPpW07EOLGQ1UaFONUKcPiEyEAMYQqZvbZPzsDLbvqYhrbVrtJRRbCQW6hh0BB3hQBBaoh6GkAIZISFJiMaMEWOHsB1gyPgnkL9D2ejgRocuxdqemzEjwbHcHBP8uxNoSvZ+y65H/P095swBcyVW0+3amzQireWdywRSdlxZf5W1NjP+m9VPaiE1MxD80c3WjpjfrNl2SUvwaImGVMnMgxSN8z+OqJA6bkyyZKKvVtJXD6dj3uVKZ1Fm7tE553HtAzwXpPqoXX1Hso+bYiCIhRJKnhjg8PhuZjiHVhEZQsXbPigEKt6gCQPn67xjzfXQhWxiQ0dvNcpbfkRDfgFxaNVlXlXJxTmJWvpwoem/C+TITiNr1WDHMgPINjRL+HCXavBVFpnnVPRXox5q5sQqIaS4r4uXTuLoQ8B1IFPLEU9Fel2lN15BXPYnWCAtgBIcfwrnz+L5k9jbhdlUckHNcl6oMHPedMJyuhhahQ4Btm5h7x688SLOfYhnngaPkG0idGYzhc0qacJHmFu4BOmbRVrLzjYINOSHO3jsYXzxJs6+jsdXkW5ARgiikh8rea7wo34XUNfIAkPearK1gJJLU6QZjj+Jz9/BqVewfw+yv9SnEztVdPvAF0hkFrwSLScnBoHK4wQHV/DCc/juE6ydQK9rmc2Azx0E6jSob+ZsDprbfRMCM0YjlQ89gGOPoN+1EfY/lpDhNKN8tgrrzXGCuIswwDc/4NR7OPc10Ac6MyuXcl51pdiiaFkq7klThJFyuvA7Tq/jg88wvIngfmSmFFI0M3uR1iayEFqlBW+MGqwXYzjGW+t492NcvgwsI9yHtJwlK4uxiHf9QpBRAyeXafl5C6JIf7/8Fq+dxo8/qcvCfWqkdFQKqRkJwriN1Vp8GNyxovxP1uIAF6/i7XWc+VQb8LJSSd3Sc5V6bX+sp1M9H4C2bE24KFohBgbPvox0ANwLBOrQPB1Qhf0UJz+Kw43puL1rzPJ/ZlMordg/frlRdcOZaacyd7oWNcvyxUT91sFqJC223MGsHEZUapl3LCeF4uimheTVBrV8aIdzg9bKqZrLMCt+846uti4dwkiQXejtPuW66tST8K6pCfMSoxQbs6u+lfeYJTbhL/3sUq9BOk1t0uN5O880aKLMTFrnbxDHJthhvH9QtoIGtEI96OexbKdb8mn9oCj6SQnkBw3O80Up0EUu9vDRgeT88u45Ka1fl7LYaG0UCTpGAhEt9vRWQi8jJqyIUoghyvTULynreXDEGLLZZtwMaTOUjVCuxPJzH39GjY7USuvEg8YxYMsm1FWQ6YlPLxzUwUViMEYvRTJLS7dhozWosswgid5NuL3Z3o6ITqCRtQZ6lXTH0J7ZgGqCzx8NOeVZvskYUpWb32w5KK1FjbVA3AaGqSUFUOxjDgAAAABJRU5ErkJggg=="
+    },
+    "window": "Search",
+    "description": "Mouse Button.left down at (1139,632)"
   },
   {
-    "time": 7.718,
+    "time": 5.973,
     "action": "mouse_click",
     "details": {
-      "x": 1099,
-      "y": 645,
+      "x": 1139,
+      "y": 632,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "Start",
+    "description": "Mouse Button.left up at (1139,632)"
   },
   {
-    "time": 15.041,
+    "time": 10.954,
     "action": "mouse_click",
     "details": {
-      "x": 835,
-      "y": 62,
+      "x": 837,
+      "y": 71,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAAcUlEQVR4nM3OMQ3AQBDAsHzU/aQD8PxhlkD3xgh8dpceSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSXruvfScmaFHkvw78O0FPuMBItfvNwoAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Mouse Button.left down at (837,71)"
   },
   {
-    "time": 15.264,
+    "time": 11.109,
     "action": "mouse_click",
     "details": {
-      "x": 835,
-      "y": 62,
+      "x": 837,
+      "y": 71,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Mouse Button.left up at (837,71)"
   },
   {
-    "time": 16.19,
+    "time": 11.704,
     "action": "key_press",
     "details": {
       "key": "i"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: i"
   },
   {
-    "time": 16.287,
+    "time": 11.782,
     "action": "key_release",
     "details": {
       "key": "i"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: i"
   },
   {
-    "time": 16.546,
+    "time": 12.022,
     "action": "key_press",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: n"
   },
   {
-    "time": 16.636,
+    "time": 12.106,
     "action": "key_release",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: n"
   },
   {
-    "time": 17.176,
+    "time": 12.36,
     "action": "key_press",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: d"
   },
   {
-    "time": 17.289,
+    "time": 12.457,
     "action": "key_release",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: d"
   },
   {
-    "time": 17.52,
+    "time": 12.663,
     "action": "key_press",
     "details": {
       "key": "i"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: i"
   },
   {
-    "time": 17.608,
+    "time": 12.765,
     "action": "key_release",
     "details": {
       "key": "i"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: i"
   },
   {
-    "time": 17.955,
+    "time": 12.958,
     "action": "key_press",
     "details": {
       "key": "a"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: a"
   },
   {
-    "time": 18.056,
+    "time": 13.054,
     "action": "key_release",
     "details": {
       "key": "a"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: a"
   },
   {
-    "time": 18.326,
+    "time": 13.291,
     "action": "key_press",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: n"
   },
   {
-    "time": 18.415,
+    "time": 13.379,
     "action": "key_release",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: n"
   },
   {
-    "time": 18.702,
+    "time": 13.603,
     "action": "key_press",
     "details": {
       "key": "Key.space"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: Key.space"
   },
   {
-    "time": 18.795,
+    "time": 13.691,
     "action": "key_release",
     "details": {
       "key": "Key.space"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: Key.space"
   },
   {
-    "time": 19.339,
+    "time": 13.957,
     "action": "key_press",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: d"
   },
   {
-    "time": 19.451,
+    "time": 14.054,
     "action": "key_release",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: d"
   },
   {
-    "time": 19.77,
+    "time": 14.236,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 19.875,
+    "time": 14.343,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 20.176,
+    "time": 14.547,
     "action": "key_press",
     "details": {
       "key": "f"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: f"
   },
   {
-    "time": 20.275,
+    "time": 14.643,
     "action": "key_release",
     "details": {
       "key": "f"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: f"
   },
   {
-    "time": 20.544,
+    "time": 14.843,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 20.641,
+    "time": 14.947,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 21.004,
+    "time": 15.125,
     "action": "key_press",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: n"
   },
   {
-    "time": 21.091,
+    "time": 15.213,
     "action": "key_release",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: n"
   },
   {
-    "time": 21.4,
+    "time": 15.426,
     "action": "key_press",
     "details": {
       "key": "s"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: s"
   },
   {
-    "time": 21.505,
+    "time": 15.531,
     "action": "key_release",
     "details": {
       "key": "s"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: s"
   },
   {
-    "time": 21.757,
+    "time": 15.78,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 21.852,
+    "time": 15.864,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 22.167,
+    "time": 16.113,
     "action": "key_press",
     "details": {
       "key": "Key.space"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: Key.space"
   },
   {
-    "time": 22.258,
+    "time": 16.197,
     "action": "key_release",
     "details": {
       "key": "Key.space"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: Key.space"
   },
   {
-    "time": 22.975,
+    "time": 16.649,
     "action": "key_press",
     "details": {
       "key": "u"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: u"
   },
   {
-    "time": 23.063,
+    "time": 16.732,
     "action": "key_release",
     "details": {
       "key": "u"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: u"
   },
   {
-    "time": 23.343,
+    "time": 16.958,
     "action": "key_press",
     "details": {
       "key": "p"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: p"
   },
   {
-    "time": 23.43,
+    "time": 17.046,
     "action": "key_release",
     "details": {
       "key": "p"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: p"
   },
   {
-    "time": 23.741,
+    "time": 17.293,
     "action": "key_press",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: d"
   },
   {
-    "time": 23.834,
+    "time": 17.392,
     "action": "key_release",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: d"
   },
   {
-    "time": 24.13,
+    "time": 17.602,
     "action": "key_press",
     "details": {
       "key": "a"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: a"
   },
   {
-    "time": 24.23,
+    "time": 17.7,
     "action": "key_release",
     "details": {
       "key": "a"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: a"
   },
   {
-    "time": 24.613,
+    "time": 17.893,
     "action": "key_press",
     "details": {
       "key": "t"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: t"
   },
   {
-    "time": 24.713,
+    "time": 17.987,
     "action": "key_release",
     "details": {
       "key": "t"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: t"
   },
   {
-    "time": 24.956,
+    "time": 18.224,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 25.056,
+    "time": 18.323,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 25.308,
+    "time": 18.526,
     "action": "key_press",
     "details": {
       "key": "s"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: s"
   },
   {
-    "time": 25.404,
+    "time": 18.616,
     "action": "key_release",
     "details": {
       "key": "s"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: s"
   },
   {
-    "time": 26.199,
+    "time": 19.263,
     "action": "key_press",
     "details": {
       "key": "Key.enter"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: Key.enter"
   },
   {
-    "time": 26.282,
+    "time": 19.352,
     "action": "key_release",
     "details": {
       "key": "Key.enter"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: Key.enter"
   },
   {
-    "time": 33.431,
+    "time": 22.179,
     "action": "mouse_click",
     "details": {
-      "x": 774,
-      "y": 204,
+      "x": 803,
+      "y": 245,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAAaElEQVR4nM3OQQEAIACEMKTA9W9rAf+yBDvb6JEkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSfJ34O0CD4sAkX7QoAAAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) indian defense updates - YouTube",
+    "description": "Mouse Button.left down at (803,245)"
   },
   {
-    "time": 33.655,
+    "time": 22.362,
     "action": "mouse_click",
     "details": {
-      "x": 774,
-      "y": 204,
+      "x": 803,
+      "y": 245,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) indian defense updates - YouTube",
+    "description": "Mouse Button.left up at (803,245)"
   },
   {
-    "time": 39.222,
+    "time": 25.999,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 39.438,
+    "time": 26.172,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 39.64,
+    "time": 26.298,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 39.864,
+    "time": 26.359,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 40.024,
+    "time": 26.483,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 40.237,
+    "time": 26.54,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 40.338,
+    "time": 26.666,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 40.557,
+    "time": 26.722,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 40.681,
+    "time": 26.825,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 40.904,
+    "time": 26.937,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 40.996,
+    "time": 27.057,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 41.22,
+    "time": 27.138,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 41.313,
+    "time": 27.265,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 41.537,
+    "time": 27.326,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 41.68,
+    "time": 27.45,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 41.896,
+    "time": 27.521,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 41.983,
+    "time": 27.646,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 42.204,
+    "time": 27.758,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 42.3,
+    "time": 27.879,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 42.519,
+    "time": 27.987,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 42.629,
+    "time": 28.114,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 42.854,
+    "time": 28.243,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 42.953,
+    "time": 28.361,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 43.171,
+    "time": 28.439,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 43.316,
+    "time": 28.564,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 43.537,
+    "time": 28.627,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 43.768,
+    "time": 28.768,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 43.998,
+    "time": 28.828,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 44.224,
+    "time": 28.975,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 44.446,
+    "time": 29.023,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 44.59,
+    "time": 29.163,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 44.813,
+    "time": 29.225,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 44.969,
+    "time": 29.37,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 45.188,
+    "time": 29.426,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 45.388,
+    "time": 29.553,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 45.604,
+    "time": 29.635,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 45.669,
+    "time": 29.769,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 45.881,
+    "time": 29.826,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1130,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 48.764,
+    "time": 29.949,
     "action": "mouse_click",
     "details": {
-      "x": 561,
-      "y": 649,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
   },
   {
-    "time": 48.98,
+    "time": 30.038,
     "action": "mouse_click",
     "details": {
-      "x": 561,
-      "y": 649,
+      "x": 1910,
+      "y": 1132,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
   },
   {
-    "time": 51.587,
+    "time": 30.169,
+    "action": "mouse_click",
+    "details": {
+      "x": 1910,
+      "y": 1132,
+      "button": "Button.left",
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
+  },
+  {
+    "time": 30.253,
+    "action": "mouse_click",
+    "details": {
+      "x": 1910,
+      "y": 1132,
+      "button": "Button.left",
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
+  },
+  {
+    "time": 30.373,
+    "action": "mouse_click",
+    "details": {
+      "x": 1910,
+      "y": 1132,
+      "button": "Button.left",
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABWElEQVR4nO3YMY6CQBgF4OeLtV4A9wLYcAWOQGVpqLyHJ/AsUkoitMSppCMxWQ0lCXRQbbHJJmvcVYHIS3a/bmZ+hhf+aZjRdDrFS5Rl+XgxIYmQREgiJBGSCEmEJEISIYmQREgiJBGSCEmEJEISIYmQNO7ysG3PJ5PJT6tVVaXp8dWxbHvuuu7dsnbJRJvI1k+m6bEoil8KiqJo3cROXysItk3T3FxqmiYItq137hSrLMskSW4uJUny1I9hz2fLmEOe51eTeZ4bc+iybQ9HPvjeyo7t6y1WXddhuPsahuGuruuOe476uoOYzd4sy7pcLufz+82Cp45ab7Hu+r8a+Wuxxo7jvOZN+/3+8eJxlmXQQ0giJBGSCEmEJEISIYmQREgiJBGSCElcr9dXU5vNJo5jDIrL5dL3/c+B7/txHHueN2wmADTGLBYLAJZlrVarKIpOp9PQqfABxoxyMwgoazEAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (1910,1132)"
+  },
+  {
+    "time": 30.474,
+    "action": "mouse_click",
+    "details": {
+      "x": 1910,
+      "y": 1132,
+      "button": "Button.left",
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (1910,1132)"
+  },
+  {
+    "time": 32.694,
+    "action": "mouse_click",
+    "details": {
+      "x": 542,
+      "y": 494,
+      "button": "Button.left",
+      "pressed": true,
+      "screenshot": "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"
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left down at (542,494)"
+  },
+  {
+    "time": 32.861,
+    "action": "mouse_click",
+    "details": {
+      "x": 542,
+      "y": 494,
+      "button": "Button.left",
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Indian Defence Updates - YouTube",
+    "description": "Mouse Button.left up at (542,494)"
+  },
+  {
+    "time": 35.661,
     "action": "key_press",
     "details": {
       "key": "Key.esc"
-    }
+    },
+    "window": "YouTube - (1) Indian Defence Updates : Kalyani vs TATA AMCA,Tejas Autonomous,30000 Cr QRSAM Order,NASM-MR on P-8I - YouTube",
+    "description": "Key press: Key.esc"
   }
 ]

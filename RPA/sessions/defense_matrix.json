@@ -1,639 +1,879 @@
 [
   {
-    "time": 2.467,
+    "time": 2.657,
     "action": "mouse_click",
     "details": {
-      "x": 487,
-      "y": 1179,
+      "x": 486,
+      "y": 1166,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAADRUlEQVR4nNWZPWsUQRjH/zO7e2u8l6SIICSFoJBOCwu/gY2tH0AsxMZKRBDB1sJG2zQ2VtZCKj+DZUAQUSOCiBrJXbzLPI/MzN7cvmYSdjGTp1hmZ+dufvu8/Oe5RKyvryM8kwjSJII0iSAtrk5JKfv9fmIMgWAlSbK8vKyMzWazILCEEP1+fzqdMjNO1OL8TZqmSimElvJRFAkhEBqWlPLEwxe0QEgEaRJBmkSQJnFaDp8mu3Dj5sbtu/FgAIAYzJj+3iVFzGCASM8QY/Ll07vHdy4+fBavrNpl9qoHZo1brP78+vn6xezrh1ZYlx89QRLZDaTZrDcaZRvPmfSj4QqAsxtXknNrZB5lEPM1+dsRoh/P77XCgla1AkHJDW5Su5PgZSICloa1Wx0Di+02zUDZxlaPZexl0iuXRm2xiEFo8FBxDEAdHIgKkyOzY0VQe7ttsRSBRQ1HCY4NFmSygGhgYoY404W3eB7KUnplQOZWmSCq2QwVJvdBF8cOvMW5/Kj1k5vUi+PUy8Td5BYVc6vip3zK0/Sv8DF1k1tEIFEHVCxPm/KcLFU1Iv9By9dRJXKjkxblaStxf4KBh6mb3CIjECWmql7YlBdp38ukJxsq8RhHtVLm/cxVD8w1G9tHcw4AB+M9L5N+NO4it1j4Tx5lc4vLTLW61dSii/yfRobD+hPq/1t89KXnbz2Qg5VCyuf6Gfvq2kPfPu5vbQ7vv6xqb7VssbMdv3naCmtw7Xq0urYoey5m2FwLxOdtbG1Gl66yiBSZFkjLHWDOJXs6ufXojeL2lSi4jslNus2Mn9TcPfk0L7yD+cIOUl5QHVMRzkqRUszSw6S/sAMsNliOqeKkTKiMFJHupT1M3XiLS0yVrMoeGSkipYN5OBMRJLXHErKcSRUmndHOW9LDZMDbY0W9TCHNwVfL5DoIr5+6S/moZ2l4HkeuMOmBiQspJulhcu1GOyzS8pNncsXomKx4Sr2YvEyqmyByPVMpmnDeijxMh5yJx+ggOB0WmOqkVbvNViKxlyn7TdYSS03GBaaKtC56ToDSoZdJB3Gy2xZr/PZVJl0VJtfGuKAchYkZyff3p6mxkQjSJII0iSBNInwsIgrk3wX/ALzL8mwgVctgAAAAAElFTkSuQmCC"
+    },
+    "window": "recorder.py - Omega - Visual Studio Code",
+    "description": "Mouse Button.left down at (486,1166)"
   },
   {
-    "time": 2.573,
+    "time": 2.685,
     "action": "mouse_click",
     "details": {
-      "x": 487,
-      "y": 1179,
+      "x": 486,
+      "y": 1166,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "",
+    "description": "Mouse Button.left up at (486,1166)"
   },
   {
-    "time": 5.572,
+    "time": 6.002,
     "action": "mouse_click",
     "details": {
-      "x": 1208,
-      "y": 587,
+      "x": 1204,
+      "y": 588,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABKUlEQVR4nO3XMYqEMBSA4TePaQRhsDS11/AKOYl3sLcUi1Q5RA6RLp2lzTY2EoKkSLuw2yzMTJGJS16RrwoJPn4QRW9d1wENdV0DgHMOAO5XDX08HpzzqqpCCEqp8zxTpuFVWZxzxljTNIwxznnitMuyqqp6uc6cFUJ4uc6cpZTa9905t++7Uipx2o3mk4hAEgJJCCQhkIRAEgJJCCQhkIRAEgJJCCQhkIRA0j3x+mEY3n2DbNu2LEuerL7v3x21bftxVupNXNf1g6N/zxJCeO+f9733QohsWcdxSCmf96WUx3HkfBK11saYvzvGGK11/hfENE3W2t+1tXaaJirvrXEcv37M85w+rfz5xChZMUpWjJIVo2TFKFkxSlaMkhWjZMUoWTFKFkT4BjsEY2KeJ49cAAAAAElFTkSuQmCC"
+    },
+    "window": "Search",
+    "description": "Mouse Button.left down at (1204,588)"
   },
   {
-    "time": 5.642,
+    "time": 6.04,
     "action": "mouse_click",
     "details": {
-      "x": 1208,
-      "y": 587,
+      "x": 1204,
+      "y": 588,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "Start",
+    "description": "Mouse Button.left up at (1204,588)"
   },
   {
-    "time": 7.69,
+    "time": 7.979,
     "action": "mouse_click",
     "details": {
-      "x": 1129,
-      "y": 655,
+      "x": 1140,
+      "y": 650,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAFRUlEQVR4nO2YS2gcRxCG/+rpfQglkmzZ2AuxDgZfHDCyDjG55JwHGN2MMVgEfBH4EEySU3LIWYQlCCTlgWKZ4EWQx5KLjSFOwGBCiCcQAj44fpIQO0Y2imNJuzvTFap7ZzQ7u7FYzTqHoKIZ1fTOdH9TVV1dLfpieKxouMiUM8gxckweQwOKEYshBEBIaBA3CHWFmsIaYcXDqsLfHj/QfD+HpRxdL8rzCjDIJMQ4BCQQWvQOzyOtc/RKeC+vfnjGnN5lbhaJNhpoA6waHSSZgRhMiVmT87dSM4FM3GfnJ7GQ8qTP+60QntprfrVm27SoPFOOSUfXuHmJluzP2Ws+ajlDmqGZCBwQr6jGczV94q7Km0xuVCx2IusJdxV7tCrc2ii6SiPbXDR4jCJTgxovLWOkTpmwHABFV9sQKRRdxcvUJHC+bpKnXA9mgika2v84CxV0NKiheAEpbacL46maEYSYSSjXSWwn22hz/Qzeu5bVWkmxY5ll8AokS8ThniRDapHFTNH7YtQ9mZ2YGBABhgp4+yT27wPuAaFYjlQrGVqXaZPMKRE472ygh1gANXDsFVxawBsnsb0A81DgvJTlOHG7Tua86ZSBoDdY0RwMPHqM7YMov4Vz8xh/FaqG8CG0M5uJbJY0nnsvWgoS9dxvemkt+7WeJyG/uoYXnsdXH2Dhfbx4EMF9cA1ePuHHONSab8b9DCoY7mHI25lkWAsXBAhCHHsZX85h6l3sHET4p/h03U4tc8eBz+C86fFKtExO9TzR6w3s3oY3X8f3FZyaRF/BknWQOHcQKJfJWGksK5Lb498JSqFWE31PCYdG0V+wEdbpxd6JThE1v1bEerPeQLEA7eHbHzH1Ec59A/QDuY6VSzKvmuYgvcGyKK4FAXRemK7ewuxZfPI5Vv+CN4zQJEKKOmYvksKEe4KVWPDGiMH6ilitY/osPvwMN24AA9A7ECSzZMtijOJdeghcy+Zk3fbdjHxe/n79Hd6bhf+TuEzvECMFtdaEkk4Qxm2s1uKr3oYVZVfWUh6u3cbMWZxelF/VgKAEbump5J6d8mCcTlmeo0e2JuwVlsaywcQ7CJaBZwFPHNpMB9RC38YUj+JkKRW0XUpbCIQ2hdI2exMvt9SGQymmRLC7Hvo9ny3LRx8abx1KjCTFli3+1pkocdukSSUFd2t7cDtbLa9tudteTqVc1jF+yb3oauvEIYwY4dW+TClX23K5xQxtyr8lRo42Zld6C3ddcdHoX/rD633Z0mlgi+XEXE+MCVqfzKw/3byCVNF4awof7+ZHXjYsze6U4TwSKy3nBhdF5DJSdNBQzXyRCHTma334dFfj0kAmJsG6VeSC4TwjZ9hjlmKPWSqHhNmYKAAbolBO/Rwo1Eny+KoyKwp/aXqo+b7mm0X+uR9381mP1IJ1Yp8hZmVpNKA5lBOf/MNBdrUoMRhDZBBaLNmGjdSgQhlC/ivRILc3i5EUywdktdYDvWFod3yAUkqcP7IzuZW4eeFWPaPjkqJ7OFYP5ekWmZuWLaxuZAurG9nC6ka2sLqRLaz/AZZu76pWqyMjI6nOO3fujI+PP2Eg3/enpqYqlcrTwpqZmRkeHgZw/PhxAGfOnJHj6NJST+bbPNaFCxeccuTIEQC9MsAmY6tcLler1Sc/7fv+0aNH49tqtVoul+PboaGhhYUF3/cvX748NzcX95dKJdfv+/7i4mKpVOoCK7scPnz4/PnzY2Nj09PTBw4ciInn5+cBvGYFwOzs7H+KdeXKFefxSqVy8eLF0dFRAJOTk4ODgxMTE39Y6bie2uUf1wFrS2aAZycAAAAASUVORK5CYII="
+    },
+    "window": "Search",
+    "description": "Mouse Button.left down at (1140,650)"
   },
   {
-    "time": 7.917,
+    "time": 8.025,
     "action": "mouse_click",
     "details": {
-      "x": 1129,
-      "y": 655,
+      "x": 1140,
+      "y": 650,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "Start",
+    "description": "Mouse Button.left up at (1140,650)"
   },
   {
-    "time": 14.376,
+    "time": 12.232,
     "action": "mouse_click",
     "details": {
-      "x": 879,
-      "y": 69,
+      "x": 892,
+      "y": 64,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAAcUlEQVR4nM3OMQ3AQBDAsHzU/aRj8PxJlkD3xgh8ZoYeSZIkSXruvfSc3aVHkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkvw78O0FQnoBK7WpGjsAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Mouse Button.left down at (892,64)"
   },
   {
-    "time": 14.6,
+    "time": 12.403,
     "action": "mouse_click",
     "details": {
-      "x": 879,
-      "y": 69,
+      "x": 892,
+      "y": 64,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Mouse Button.left up at (892,64)"
   },
   {
-    "time": 15.531,
+    "time": 12.96,
     "action": "key_press",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: d"
   },
   {
-    "time": 15.64,
+    "time": 13.066,
     "action": "key_release",
     "details": {
       "key": "d"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: d"
   },
   {
-    "time": 16.046,
+    "time": 13.439,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 16.156,
+    "time": 13.532,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 16.435,
+    "time": 13.793,
     "action": "key_press",
     "details": {
       "key": "f"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: f"
   },
   {
-    "time": 16.534,
+    "time": 13.891,
     "action": "key_release",
     "details": {
       "key": "f"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: f"
   },
   {
-    "time": 16.827,
+    "time": 14.185,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 16.928,
+    "time": 14.285,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 17.434,
+    "time": 14.558,
     "action": "key_press",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: n"
   },
   {
-    "time": 17.526,
+    "time": 14.649,
     "action": "key_release",
     "details": {
       "key": "n"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: n"
   },
   {
-    "time": 17.911,
+    "time": 14.928,
     "action": "key_press",
     "details": {
       "key": "s"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: s"
   },
   {
-    "time": 18.015,
+    "time": 15.035,
     "action": "key_release",
     "details": {
       "key": "s"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: s"
   },
   {
-    "time": 18.353,
+    "time": 15.268,
     "action": "key_press",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: e"
   },
   {
-    "time": 18.456,
+    "time": 15.366,
     "action": "key_release",
     "details": {
       "key": "e"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: e"
   },
   {
-    "time": 18.891,
+    "time": 15.644,
     "action": "key_press",
     "details": {
       "key": "Key.space"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: Key.space"
   },
   {
-    "time": 18.987,
+    "time": 15.731,
     "action": "key_release",
     "details": {
       "key": "Key.space"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: Key.space"
   },
   {
-    "time": 19.471,
+    "time": 15.983,
     "action": "key_press",
     "details": {
       "key": "m"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: m"
   },
   {
-    "time": 19.559,
+    "time": 16.069,
     "action": "key_release",
     "details": {
       "key": "m"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: m"
   },
   {
-    "time": 19.905,
+    "time": 16.317,
     "action": "key_press",
     "details": {
       "key": "a"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: a"
   },
   {
-    "time": 20.015,
+    "time": 16.411,
     "action": "key_release",
     "details": {
       "key": "a"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: a"
   },
   {
-    "time": 20.501,
+    "time": 16.686,
     "action": "key_press",
     "details": {
       "key": "t"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: t"
   },
   {
-    "time": 20.594,
+    "time": 16.773,
     "action": "key_release",
     "details": {
       "key": "t"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: t"
   },
   {
-    "time": 20.924,
+    "time": 17.026,
     "action": "key_press",
     "details": {
       "key": "r"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: r"
   },
   {
-    "time": 21.02,
+    "time": 17.119,
     "action": "key_release",
     "details": {
       "key": "r"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: r"
   },
   {
-    "time": 21.434,
+    "time": 17.358,
     "action": "key_press",
     "details": {
       "key": "i"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: i"
   },
   {
-    "time": 21.523,
+    "time": 17.453,
     "action": "key_release",
     "details": {
       "key": "i"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: i"
   },
   {
-    "time": 21.889,
+    "time": 17.726,
     "action": "key_press",
     "details": {
       "key": "x"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: x"
   },
   {
-    "time": 21.995,
+    "time": 17.823,
     "action": "key_release",
     "details": {
       "key": "x"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: x"
   },
   {
-    "time": 23.912,
+    "time": 18.198,
     "action": "key_press",
     "details": {
       "key": "Key.enter"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key press: Key.enter"
   },
   {
-    "time": 24.006,
+    "time": 18.282,
     "action": "key_release",
     "details": {
       "key": "Key.enter"
-    }
+    },
+    "window": "YouTube - (1) YouTube",
+    "description": "Key release: Key.enter"
   },
   {
-    "time": 31.531,
+    "time": 21.494,
     "action": "mouse_click",
     "details": {
-      "x": 782,
-      "y": 602,
+      "x": 831,
+      "y": 256,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAAaElEQVR4nM3OQQEAIACEMKTA9W9rAf+yBDvb6JEkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSfJ34O0CD4sAkX7QoAAAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) defense matrix - YouTube",
+    "description": "Mouse Button.left down at (831,256)"
   },
   {
-    "time": 31.754,
+    "time": 21.67,
     "action": "mouse_click",
     "details": {
-      "x": 782,
-      "y": 602,
+      "x": 831,
+      "y": 256,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) defense matrix - YouTube",
+    "description": "Mouse Button.left up at (831,256)"
   },
   {
-    "time": 37.215,
+    "time": 25.986,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 37.438,
+    "time": 26.057,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 37.683,
+    "time": 26.254,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 37.913,
+    "time": 26.334,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 38.029,
+    "time": 26.516,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 38.249,
+    "time": 26.557,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 38.454,
+    "time": 26.749,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 38.68,
+    "time": 26.799,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 38.798,
+    "time": 27.002,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 39.022,
+    "time": 27.036,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 39.154,
+    "time": 27.216,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 39.376,
+    "time": 27.273,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 39.478,
+    "time": 27.458,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 39.701,
+    "time": 27.503,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 39.804,
+    "time": 27.684,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 40.03,
+    "time": 27.726,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 40.137,
+    "time": 27.915,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 40.355,
+    "time": 27.969,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 40.492,
+    "time": 28.164,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 40.713,
+    "time": 28.206,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 40.883,
+    "time": 28.385,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 41.105,
+    "time": 28.434,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 41.208,
+    "time": 28.619,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 41.429,
+    "time": 28.658,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 41.487,
+    "time": 28.832,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 41.711,
+    "time": 28.873,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 41.823,
+    "time": 29.05,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 42.04,
+    "time": 29.081,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 42.111,
+    "time": 29.236,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 42.33,
+    "time": 29.298,
     "action": "mouse_click",
     "details": {
-      "x": 1912,
-      "y": 1129,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 44.262,
+    "time": 29.465,
     "action": "mouse_click",
     "details": {
-      "x": 557,
-      "y": 620,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": true
-    }
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
   },
   {
-    "time": 44.492,
+    "time": 29.513,
     "action": "mouse_click",
     "details": {
-      "x": 557,
-      "y": 620,
+      "x": 1911,
+      "y": 1128,
       "button": "Button.left",
-      "pressed": false
-    }
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
   },
   {
-    "time": 48.474,
+    "time": 29.701,
+    "action": "mouse_click",
+    "details": {
+      "x": 1911,
+      "y": 1128,
+      "button": "Button.left",
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAABH0lEQVR4nO3YvW6DMBQF4JMjZngB0hcgC6/AK4cxSOxWmMLG1CCPlsxmT90qtaKN+Gl6pPbb4F6bI64nH7Isw8/z3i/qJyQRkghJhCRCEiGJkERIIiQRkghJhCRCEiGJkERIIiQRkghJhCRCEiEpWb2yKE5pmn5Vnaap72/PjlUUp6qqHratTiY6RK5b1vc359w3Dc65LUNc/7fq+hxjnC3FGOv6vHrnTbG898aY2ZIxZumlw55nq+uu1tpPL621XXfdsu0OR77+OMrt49snVgihaS7vj01zCSFsToXDLvdbx+NLnufjON7vr7MNS4/aPrEe+r92+4OxkrIsn/CZtm0X9SfDMEAPIYmQREgiJBGSCEmEJEISIYmQxN8OMO8NBUJcK6fJxugAAAAASUVORK5CYII="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (1911,1128)"
+  },
+  {
+    "time": 29.715,
+    "action": "mouse_click",
+    "details": {
+      "x": 1911,
+      "y": 1128,
+      "button": "Button.left",
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (1911,1128)"
+  },
+  {
+    "time": 31.855,
+    "action": "mouse_click",
+    "details": {
+      "x": 571,
+      "y": 529,
+      "button": "Button.left",
+      "pressed": true,
+      "screenshot": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAFRElEQVR4nNVZ3XbbNgwGQEqq7aRds25nF7vfxc7e/1n2AL3Yui1OmsSORAI74I9EWXKtuM7pBic2LZLAR/yRhPH3j1sAhEQS/mJTG5L68gAs3gsKYzODvh+HR9pEbfYDEQsuEhkMMGxqx+E6E4cv+kqNkfCC+8C5wJR600ec3s/ByCYhGWi0VtuLziyygoaV9iixB3Wor7j2/D9S3aSZ1TTReTHEHu9Kqsvrl14RktV3Qv6YHSwdo71TWIMRinbPFGeXWc45JfELlLtxBlbJ5gWEC8ZE5Z8aq8awQ7Tlp8X7hQkXj7LjmDkkubzERWRFmJBygGEBZN6NZuk0+nHiO0mWCAlDDuAjnruAEy7T63KHtcLMw/Ay96YYXGhHXCxyESwAE3jGrWGaKJeFGFyYbMiUiia8UG15JuEFwVsk6ne80uGXSXotldnx7n2Q4pcSngv82EQ76bqs776EddGtGes/SPSy4fg6KGImKCgfAwONj4j9lGFjf0Hq/Lql2nNm4mTAcBj7KjQvhLVQBl6G2RwsWRbVCK9KF9LWBai8fX1LWDj90sdc2BPnRx4lOd+G5eVwrjs3lmhrlpWcA2rxyFHe+gaE88nFnnlmkDkBpyEsJcvCvcVp8VFAzpE58cnj2W5ZJJ5z2FlAx/3zhQlCcuM1PVLUiHkvTuflvlCSBdPsZUgOwc3YdTzjcEKJ4vCb2JHlXzkqZbqa6ZBAX5fl5ZSUL8r+Al1i85HL3nr+14dmgW9wf7UHzIedfFrhk+HJjNH6PQRjpfMoLXHFw/rWfK02NWQqIJaRE4z0jrmSIaPQnr0pHEGue+L4Mn04cVzbnq3uZQrV1liMCmz7ulTAnxehXeOCN8YVY5FO4626qBNPE3lvEplHM9S4c40lrjUyLEr7gjHrYqxclcsZlyFzOo1zddueiBuKOBhXKZhKzYemL8t2UTkYPljncQZCYVQuWs/dqoK2Mtu4xLEzxFWn/I9JU6HEk5Q+nAF6P4rIkl7CQAbKQOKUiDjV0rNdg7ykV9XWEH/iPbPvfxQgMsxijPXMIkDJZ4RFKlsJQOecIUNkhEyq+HjnvDPWoqHOd+A1A3kyxM4Y0g1WS4/oXUsIRKi8RIiB43L1oeYsa8g4haJg2Hc3764r0hBX1ETM0jl/e7tdr1dXmytM1S9EpO3dHbP7cPO+69zDvgVA5710zzffvTOVuX14EJHrdxsC/Gd7t2ns281617qn1ruOjbibm/dt+/zHX59+/PD9xtScWXuRp90uHAOTFhGY1021qStmZgFS6eScu791q9q8vWri4hCJRe623oB/u66do+e2dQLC3epNdb1ZMQrcOyS4ul6L87L1TdVcbWpDsO/2LN26put1fe+fSfz1m2ZTN2prDQSN5M2qsayoUgRrdTd46J/bh+3D/vlh+9uvvwiqhqOS//78eP+4RyAgcmItiiBYa9Bg2/o9+6t6BYiOoQPjg48xoEPrgvc3TWN33u/b6H8MejJmRIbu46fPu9ZXBn7+6YfGmniaihETXDB6MxlTNcZWRXwgRfxkxARnIkvGxIJr1agVPAOZyol0Ai1D573zrGGIRj0zMKmrygypGZnFsTACVjVVTcvivFf5GIry40RVJraQFSUCF6O/xqj61GL6Bx7EI9RN41znmU1dOxYPyr3z3Hn2ane1AAdkm1VjchYJFVv1FGEW9iGYILiJ2IPtIarNOf+0e+x2T8G41Kcudm7/9OgJ7WotqKt0wsBgDHaus9ZieNIKdiKeg/5AG5E5C1dk3tSVsFpYMNgGQQhV2epeypMR/gVfnKLW2CmJ6gAAAABJRU5ErkJggg=="
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left down at (571,529)"
+  },
+  {
+    "time": 32.009,
+    "action": "mouse_click",
+    "details": {
+      "x": 571,
+      "y": 529,
+      "button": "Button.left",
+      "pressed": false,
+      "screenshot": null
+    },
+    "window": "YouTube - (1) Defence Matrix- \u0939\u093f\u0902\u0926\u0940 - YouTube",
+    "description": "Mouse Button.left up at (571,529)"
+  },
+  {
+    "time": 34.32,
     "action": "key_press",
     "details": {
       "key": "Key.esc"
-    }
+    },
+    "window": "YouTube - (1) Weekly Aukaat reminder | Pakistan Air Force edition | \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 - YouTube",
+    "description": "Key press: Key.esc"
   }
 ]

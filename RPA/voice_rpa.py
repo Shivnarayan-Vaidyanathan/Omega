@@ -23,6 +23,9 @@ MODEL = whisper.load_model("small")
 SAMPLE_RATE = 16000
 CHANNELS = 1
 
+# Track dry-run mode
+DRY_RUN_MODE = False
+
 def record_and_transcribe(duration=5) -> str | None:
     """
     Record mic input for given duration and transcribe with Whisper.
@@ -48,36 +51,52 @@ def record_and_transcribe(duration=5) -> str | None:
 
     return None
 
-
-def run_session(command: str):
-    # Find closest match
+def run_session(command: str, dry_run=False, llm_instructions=None):
+    """
+    Match the voice command to a recorded session and play it.
+    """
     choices = VOICE_COMMANDS.keys()
     match, score = process.extractOne(command, choices)
     if score >= 80:  # only match if similarity is high
         session_file = VOICE_COMMANDS[match]
         file_path = os.path.join(SESSIONS_DIR, session_file)
         if os.path.exists(file_path):
-            print(f"▶️ Running session for '{match}'...")
-            play_session(file_path)
+            print(f"▶️ Running session for '{match}'{' (dry-run)' if dry_run else ''}...")
+            play_session(file_path, llm_instructions=llm_instructions, dry_run=dry_run)
             return True
     return False
 
-
 def main():
-    """Standalone mode: run RPA sessions via direct voice input"""
+    """
+    Standalone mode: run RPA sessions via direct voice input.
+    Supports toggling dry-run mode via voice.
+    """
+    global DRY_RUN_MODE
     while True:
         command = record_and_transcribe()
         if not command:
             continue
 
-        if run_session(command):
+        # Toggle dry-run mode
+        if "dry run on" in command:
+            DRY_RUN_MODE = True
+            print("⚡ Dry-run mode activated. No clicks or keystrokes will be performed.")
             continue
+        elif "dry run off" in command:
+            DRY_RUN_MODE = False
+            print("✅ Dry-run mode deactivated. Sessions will execute normally.")
+            continue
+
+        # Run session
+        if run_session(command, dry_run=DRY_RUN_MODE):
+            continue
+
+        # Exit
         elif "exit" in command or "quit" in command:
             print("👋 Exiting Voice RPA.")
             break
         else:
             print("🤔 Command not recognized.")
-
 
 if __name__ == "__main__":
     main()
